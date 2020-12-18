@@ -1,0 +1,51 @@
+\documentclass{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsthm}
+\usepackage{comment}
+
+
+\newtheorem{axiom}{Axiom}[section]
+\newtheorem*{example}{Example}
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem*{remark}{Remark}
+\newtheorem{theorem}{Theorem}[section]
+
+\title{Objectivism: a Rigorous Approach \\
+    (Draft)}
+\author{Bernardo Paulsen}
+
+\begin{document}
+
+\frontmatter
+
+\maketitle
+\tableofcontents
+
+\input{dedication}
+\input{preface}
+\input{introduction}
+
+\mainmatter
+
+\input{1}  %OK
+\input{2}  %OK 
+\input{3}  %OK
+\input{4}  %1,2---3,4,5
+\input{5}  %---1,2,3,4,5
+\input{6}  %OK
+\input{7}  %1,2,3---4,5
+\input{8}  %---1,2,3,4,5,6,7
+\input{9}  %---1,2,3
+\input{10} %---1,2,3
+\input{11} %---1,2,3
+\input{12} %---1,2,3
+
+\appendix
+
+%\input{appendix_taxes}
+
+\end{document}
+
+\end{document}
