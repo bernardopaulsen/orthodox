@@ -1,0 +1,75 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{3}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-2}{Dedication}}{5}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-3}{}{Dedication}}{v}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-3000}{QQ2-1-4}{Preface}}{7}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-5}{}{Preface}}{vii}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{x1-4000}{QQ2-1-6}{Introduction}}{9}\relax 
+\doTocEntry\tocpart{I}{\csname a:TocLink\endcsname{1}{x1-5000I}{QQ2-1-7}{Metaphysics}}{5}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-60001}{QQ2-1-8}{Reality}}{7}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-70001.1}{QQ2-1-9}{Existence, Identity and Consciousness as the Basic Axioms}}{7}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-80001.2}{QQ2-1-10}{Causality as a Corollary of Identity}}{10}\relax 
+\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-90001.3}{QQ2-1-11}{Existence as Possessing Primacy over Consciousness}}{12}\relax 
+\doTocEntry\tocsection{1.4}{\csname a:TocLink\endcsname{1}{x1-100001.4}{QQ2-1-12}{The Metaphysically Given as Absolute}}{12}\relax 
+\doTocEntry\tocpart{II}{\csname a:TocLink\endcsname{1}{x1-11000II}{QQ2-1-13}{Epistemology}}{17}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-120002}{QQ2-1-14}{Sense Perception and Volition}}{19}\relax 
+\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-130002.1}{QQ2-1-15}{The Senses as Necessarily Valid}}{19}\relax 
+\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-140002.2}{QQ2-1-16}{Sensory Qualities as Real}}{19}\relax 
+\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-150002.3}{QQ2-1-17}{Consciousness as Possessing Identity}}{20}\relax 
+\doTocEntry\tocsection{2.4}{\csname a:TocLink\endcsname{1}{x1-160002.4}{QQ2-1-18}{The Perceptual Level as the Given}}{21}\relax 
+\doTocEntry\tocsection{2.5}{\csname a:TocLink\endcsname{1}{x1-170002.5}{QQ2-1-19}{The Primary Choice as the Choice to Focus or Not}}{22}\relax 
+\doTocEntry\tocsection{2.6}{\csname a:TocLink\endcsname{1}{x1-180002.6}{QQ2-1-20}{Human Actions, Mental and Physical, as Both Caused and Free}}{24}\relax 
+\doTocEntry\tocsection{2.7}{\csname a:TocLink\endcsname{1}{x1-190002.7}{QQ2-1-21}{Volition as Axiomatic}}{24}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-200003}{QQ2-1-22}{Concept-Fromation}}{25}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-210003.1}{QQ2-1-23}{Differentiation and Integration as the Means to a Unit-Perspective}}{25}\relax 
+\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-220003.2}{QQ2-1-24}{Concept-Formation as a Mathematical Process}}{28}\relax 
+\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-230003.3}{QQ2-1-25}{Definition as the Final Step in Concept-Formation}}{30}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-240004}{QQ2-1-26}{Objectivity}}{33}\relax 
+\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-250004.1}{QQ2-1-27}{Concepts as Objective}}{33}\relax 
+\doTocEntry\tocsection{4.2}{\csname a:TocLink\endcsname{1}{x1-260004.2}{QQ2-1-28}{Objectivity as Volitional Adherence to Reality by a Method of Logic}}{33}\relax 
+\doTocEntry\tocsection{4.3}{\csname a:TocLink\endcsname{1}{x1-270004.3}{QQ2-1-29}{Knowledge as Contextual}}{34}\relax 
+\doTocEntry\tocsection{4.4}{\csname a:TocLink\endcsname{1}{x1-280004.4}{QQ2-1-30}{Knowledge as Hierarchical}}{34}\relax 
+\doTocEntry\tocsection{4.5}{\csname a:TocLink\endcsname{1}{x1-290004.5}{QQ2-1-31}{Intrinsicism and Subjectivism as the Two Forms of Rejecting Objectivity}}{34}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-300005}{QQ2-1-32}{Reason}}{35}\relax 
+\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-310005.1}{QQ2-1-33}{Emotions as a Product of Ideas}}{35}\relax 
+\doTocEntry\tocsection{5.2}{\csname a:TocLink\endcsname{1}{x1-320005.2}{QQ2-1-34}{Reason as Man's Only Means of Knowledge}}{35}\relax 
+\doTocEntry\tocsection{5.3}{\csname a:TocLink\endcsname{1}{x1-330005.3}{QQ2-1-35}{The Arbitrary as Neither True or False}}{36}\relax 
+\doTocEntry\tocsection{5.4}{\csname a:TocLink\endcsname{1}{x1-340005.4}{QQ2-1-36}{Certainty as Contextual}}{36}\relax 
+\doTocEntry\tocsection{5.5}{\csname a:TocLink\endcsname{1}{x1-350005.5}{QQ2-1-37}{Mysticism and Skepticism as Denials of Reason}}{36}\relax 
+\doTocEntry\tocpart{III}{\csname a:TocLink\endcsname{1}{x1-36000III}{QQ2-1-38}{Ethics}}{39}\relax 
+\doTocEntry\tocchapter{6}{\csname a:TocLink\endcsname{1}{x1-370006}{QQ2-1-39}{Man}}{41}\relax 
+\doTocEntry\tocsection{6.1}{\csname a:TocLink\endcsname{1}{x1-380006.1}{QQ2-1-40}{Man as Conditional and Goal-Directed}}{41}\relax 
+\doTocEntry\tocsection{6.2}{\csname a:TocLink\endcsname{1}{x1-390006.2}{QQ2-1-41}{Reason as Man's Basic Means of Survival}}{41}\relax 
+\doTocEntry\tocsection{6.3}{\csname a:TocLink\endcsname{1}{x1-400006.3}{QQ2-1-42}{Reason as an Attribute of the Individual}}{42}\relax 
+\doTocEntry\tocchapter{7}{\csname a:TocLink\endcsname{1}{x1-410007}{QQ2-1-43}{The Good}}{43}\relax 
+\doTocEntry\tocsection{7.1}{\csname a:TocLink\endcsname{1}{x1-420007.1}{QQ2-1-44}{``Life'' as the Essential Root of ``Value''}}{43}\relax 
+\doTocEntry\tocsection{7.2}{\csname a:TocLink\endcsname{1}{x1-430007.2}{QQ2-1-45}{Man's Life as the Standard of Moral Value}}{44}\relax 
+\doTocEntry\tocsection{7.3}{\csname a:TocLink\endcsname{1}{x1-440007.3}{QQ2-1-46}{Rationality as the Primary Virtue}}{45}\relax 
+\doTocEntry\tocsection{7.4}{\csname a:TocLink\endcsname{1}{x1-450007.4}{QQ2-1-47}{The Individual as the Propor Beneficiary of his Own Moral Action}}{47}\relax 
+\doTocEntry\tocsection{7.5}{\csname a:TocLink\endcsname{1}{x1-460007.5}{QQ2-1-48}{Values as Objective}}{47}\relax 
+\doTocEntry\tocchapter{8}{\csname a:TocLink\endcsname{1}{x1-470008}{QQ2-1-49}{Virtue}}{49}\relax 
+\doTocEntry\tocsection{8.1}{\csname a:TocLink\endcsname{1}{x1-480008.1}{QQ2-1-50}{Independence as a Primary Orientation to Reality, not to Other Men}}{49}\relax 
+\doTocEntry\tocsection{8.2}{\csname a:TocLink\endcsname{1}{x1-490008.2}{QQ2-1-51}{Integrity as Loyalty to Rational Principles}}{49}\relax 
+\doTocEntry\tocsection{8.3}{\csname a:TocLink\endcsname{1}{x1-500008.3}{QQ2-1-52}{Honesty as the Rejection of Unreality}}{49}\relax 
+\doTocEntry\tocsection{8.4}{\csname a:TocLink\endcsname{1}{x1-510008.4}{QQ2-1-53}{Justice as Rationality in the Evaluation of Men}}{49}\relax 
+\doTocEntry\tocsection{8.5}{\csname a:TocLink\endcsname{1}{x1-520008.5}{QQ2-1-54}{Productiveness as the Adjustment of Nature to Man}}{49}\relax 
+\doTocEntry\tocsection{8.6}{\csname a:TocLink\endcsname{1}{x1-530008.6}{QQ2-1-55}{Pride as Moral Ambitiousness}}{49}\relax 
+\doTocEntry\tocsection{8.7}{\csname a:TocLink\endcsname{1}{x1-540008.7}{QQ2-1-56}{The Initiation of Physical Force as Evil}}{49}\relax 
+\doTocEntry\tocchapter{9}{\csname a:TocLink\endcsname{1}{x1-550009}{QQ2-1-57}{Happiness}}{51}\relax 
+\doTocEntry\tocsection{9.1}{\csname a:TocLink\endcsname{1}{x1-560009.1}{QQ2-1-58}{Virtue as Practical}}{51}\relax 
+\doTocEntry\tocsection{9.2}{\csname a:TocLink\endcsname{1}{x1-570009.2}{QQ2-1-59}{Happiness as the Normal Condition of Man}}{51}\relax 
+\doTocEntry\tocsection{9.3}{\csname a:TocLink\endcsname{1}{x1-580009.3}{QQ2-1-60}{Sex as Metaphysical}}{51}\relax 
+\doTocEntry\tocpart{IV}{\csname a:TocLink\endcsname{1}{x1-59000IV}{QQ2-1-61}{Politics}}{55}\relax 
+\doTocEntry\tocchapter{10}{\csname a:TocLink\endcsname{1}{x1-6000010}{QQ2-1-62}{Government}}{57}\relax 
+\doTocEntry\tocsection{10.1}{\csname a:TocLink\endcsname{1}{x1-6100010.1}{QQ2-1-63}{Individual Rights as Absolutes}}{57}\relax 
+\doTocEntry\tocsection{10.2}{\csname a:TocLink\endcsname{1}{x1-6200010.2}{QQ2-1-64}{Government as an Agency to Protect Rights}}{57}\relax 
+\doTocEntry\tocsection{10.3}{\csname a:TocLink\endcsname{1}{x1-6300010.3}{QQ2-1-65}{Statism as the Politics of Unreason}}{57}\relax 
+\doTocEntry\tocchapter{11}{\csname a:TocLink\endcsname{1}{x1-6400011}{QQ2-1-66}{Capitalism}}{59}\relax 
+\doTocEntry\tocsection{11.1}{\csname a:TocLink\endcsname{1}{x1-6500011.1}{QQ2-1-67}{Capitalism as the Only Moral System}}{59}\relax 
+\doTocEntry\tocsection{11.2}{\csname a:TocLink\endcsname{1}{x1-6600011.2}{QQ2-1-68}{Capitalism as the System of Objectivity}}{59}\relax 
+\doTocEntry\tocsection{11.3}{\csname a:TocLink\endcsname{1}{x1-6700011.3}{QQ2-1-69}{Opposition to Capitalism as Dependent on Bad Epistemology}}{59}\relax 
+\doTocEntry\tocpart{V}{\csname a:TocLink\endcsname{1}{x1-68000V}{QQ2-1-70}{Aesthetics}}{63}\relax 
+\doTocEntry\tocchapter{12}{\csname a:TocLink\endcsname{1}{x1-6900012}{QQ2-1-71}{Art}}{65}\relax 
+\doTocEntry\tocsection{12.1}{\csname a:TocLink\endcsname{1}{x1-7000012.1}{QQ2-1-72}{Art as a Concretization of Metaphysics}}{65}\relax 
+\doTocEntry\tocsection{12.2}{\csname a:TocLink\endcsname{1}{x1-7100012.2}{QQ2-1-73}{Romantic Literature as Illustrating the Role of Philosophy in Art}}{65}\relax 
+\doTocEntry\tocsection{12.3}{\csname a:TocLink\endcsname{1}{x1-7200012.3}{QQ2-1-74}{Esthetic Value as Objective}}{65}\relax 
