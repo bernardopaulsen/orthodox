@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.1.31)  1 FEB 2021 01:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2020.6.28)  1 FEB 2021 01:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,12 +7,11 @@ de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
 {\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
 documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
-\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode .a.b.c.\input  objectivism.
-tex
- (./objectivism.tex
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,,charset=utf-8,html5.
+a.b.c.\input "\detokenize{objectivism.tex}"
+(./objectivism.tex (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -27,9 +26,8 @@ File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
-version 2019-03-18-15:24
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2020-02-18-14:17
 Package: tex4ht 
 --------------------------------------
 --- Note --- for _ at preamble, use the command line option `early_'
@@ -37,67 +35,53 @@ Package: tex4ht
 --------------------------------------
 --- Note --- for ^ at preamble, use the command line option `early^'
 --------------------------------------
-\tmp:toks=\toks14
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
-version 2019-12-19-14:27
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+\tmp:toks=\toks15
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-03-12-14:03
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks17
-\thm@bodyfont=\toks18
-\thm@headfont=\toks19
-\thm@notefont=\toks20
-\thm@headpunct=\toks21
+\thm@style=\toks18
+\thm@bodyfont=\toks19
+\thm@headfont=\toks20
+\thm@notefont=\toks21
+\thm@headpunct=\toks22
 \thm@preskip=\skip49
 \thm@postskip=\skip50
 \thm@headsep=\skip51
-\dth@everypar=\toks22
-)
-
-! LaTeX Error: File `comment.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
+\dth@everypar=\toks23
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+Excluding comment 'comment')
 \c@axiom=\count176
 \c@corollary=\count177
 \c@definition=\count178
 \c@theorem=\count179
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
-version 2018-12-30-09:29
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2020-03-12-14:03
 --------------------------------------
 --- Note --- for additional information, use the command line option `info'
 --------------------------------------
-
 ::::::::::::::::::::::::::::::::::::::::::
  TeX4ht info is available in the log file 
 ::::::::::::::::::::::::::::::::::::::::::
-) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
-version 2019-03-18-15:24
-
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2020-02-18-14:17
 --- needs --- tex4ht objectivism ---
 \tmp:cnt=\count180
 \openout15 = `objectivism.tmp'.
 
 (./objectivism.tmp)
 \tmp:dim=\skip52
---------------------------------------
---- Note --- for XML code, use the command line option `xml' or `xhtml'
---------------------------------------
- (./objectivism.xref)
-\:refout=\write3
-\openout3 = `objectivism.xref'.
+(./objectivism.xref)
+\:refout=\write4
+\openout4 = `objectivism.xref'.
 
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
 --------------------------------------
 --- Note --- to remove the <?xml version=...?> processing instruction use the c
 ommand line option `no-VERSION'
@@ -106,9 +90,12 @@ ommand line option `no-VERSION'
 --- Note --- to remove the DOCTYPE declaration use the command line option `no-
 DOCTYPE'
 --------------------------------------
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
 )
 --------------------------------------
 --- Note --- for marking of the base font, use the command line option `fonts+'
@@ -126,13 +113,8 @@ version 2019-12-16-15:21
 --------------------------------------
 --- Note --- for ^ of catcode 13, use the command line option `^13'
 --------------------------------------
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
---------------------------------------
---- Note --- for alternative charset, use the command line option `charset=...'
-
---------------------------------------
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
 --------------------------------------
 --- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
 on
@@ -158,7 +140,7 @@ option `frames-fn'
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
 --------------------------------------
-TeX4ht package options: html
+TeX4ht package options: xhtml,charset=utf-8,html5,html
 --------------------------------------
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
@@ -176,12 +158,18 @@ TeX4ht package options: html
 --- Note --- for addressing images in a subdirectory, use the command line opti
 on `imgdir:.../'
 --------------------------------------
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
 )
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
-)
-\:tokwrite=\toks23
-\:tokpage=\toks24
+\:tokwrite=\toks24
+\:tokpage=\toks25
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -191,32 +179,34 @@ version 2019-12-16-15:21
 --------------------------------------
 \openout15 = `objectivism.4ct'.
 
-\:tocout=\write4
-\openout4 = `objectivism.4tc'.
+\:tocout=\write5
+\openout5 = `objectivism.4tc'.
 
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latex.4ht
-version 2019-08-26-14:22
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2020-02-26-14:25
 LaTeX Info: Redefining \_ on input line 168.
 --------------------------------------
 --- Note --- for links into captions, instead of float heads, use the command l
 ine option `refcaption'
 --------------------------------------
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
 --------------------------------------
 --- Note --- For mini tocs immediately aftter the header use the command line o
 ption `minitoc<'
@@ -254,9 +244,10 @@ onts'
 ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
 style="width:\HColWidth"}}
 --------------------------------------
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
 --------------------------------------
 --- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
 
@@ -275,19 +266,21 @@ he command line option `pic-m+' (not safe!!)
 --------------------------------------
 --- Note --- for pictorial array, use the command line option `pic-array'
 --------------------------------------
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/fontmath.4ht
 version 2018-11-06-15:55
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/book.4ht
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/book.4ht (/usr/local/
+texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
 --------------------------------------
 --- Note --- for automatic sectioning pagination, use the command line option `
 1', `2', `3', '4', '5', '6', or '7'
@@ -300,36 +293,42 @@ option `sec-filename'
 --- Note --- for i-columns index, use the command line option `index=i' (e.g., 
 index=2)
 --------------------------------------
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/inputenc.4ht
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/inputenc.4ht
 version 2009-05-21-09:32
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsthm.4ht
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amsthm.4ht
 version 2009-05-21-09:32
-
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
-))
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-02-14-14:21
-)
-(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2019-12-16-15:21
-))
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-03-16-10:43
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-03-06-15:07
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
 \l__pdf_internal_box=\box45
 \g__pdf_backend_object_int=\count181
 \l__pdf_backend_content_box=\box46
@@ -337,8 +336,7 @@ File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
 \g__pdf_backend_annotation_int=\count182
 \g__pdf_backend_link_int=\count183
 \g__pdf_backend_link_sf_int=\count184
-)
-(./objectivism.aux
+) (./objectivism.aux
 
 LaTeX Warning: Label `cor:consciousness' multiply defined.
 
@@ -363,7 +361,7 @@ LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 --- file objectivism.css ---
- [1
+[1
 
 ] [2
 
@@ -376,17 +374,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 23.
- [1] [2] (./objectivism.4ct [3
+[1] [2] (./objectivism.4ct [3
 
-]) (./dedication.tex
-[4]) (./preface.tex [5
+]) (./dedication.tex [4]) (./preface.tex [5
 
 ] [6
 
 ]) (./introduction.tex [7] [8
 
-] [9] [10]) [11]
-[12
+] [9] [10]) [11] [12
 
 ] (./1.tex [1] [2
 
@@ -394,70 +390,70 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 Chapter 1.
-[7] [8] [9] [10] [11] [12]) (./2.tex [13] [14
+[7] [8] [9] [10] [11] [12] [13]) (./2.tex [14] [15
 
-] [15] [16] [17] [18
+] [16] [17] [18
 
 ]
 Chapter 2.
-[19] [20] [21] [22] [23]) (./3.tex [24]
+[19] [20] [21] [22] [23] [24]) (./3.tex [25] [26
+
+]
 Chapter 3.
-[25
+[27] [28] [29] [30] [31] [32] [33] [34]) (./4.tex [35] [36
 
-] [26] [27] [28] [29] [30] [31]) (./4.tex [32]
+]
 Chapter 4.
-[33
-
-]) (./5.tex [34]
+[37]) (./5.tex [38]
 Chapter 5.
-[35
+[39
 
-]) (./6.tex [36] [37
+]) (./6.tex [40] [41
 
-] [38] [39] [40
+] [42] [43] [44
 
 ]
 Chapter 6.
-[41]) (./7.tex [42]
+[45]) (./7.tex [46]
 Chapter 7.
-[43
+[47
 
-] [44] [45] [46]) (./8.tex [47] [48
+] [48] [49] [50]) (./8.tex [51] [52
 
 ]
 Chapter 8.
-) (./9.tex [49] [50
+) (./9.tex [53] [54
 
 ]
 Chapter 9.
-) (./10.tex [51] [52
+) (./10.tex [55] [56
 
-] [53] [54] [55] [56
+] [57] [58] [59] [60
 
 ]
 Chapter 10.
-) (./11.tex [57] [58
+) (./11.tex [61] [62
 
 ]
 Chapter 11.
-) (./12.tex [59] [60
+) (./12.tex [63] [64
 
-] [61] [62] [63] [64
+] [65] [66] [67] [68
 
 ]
 Chapter 12.
-) [65] (./objectivism.aux)
+) [69] (./objectivism.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4530 strings out of 483184
- 54097 string characters out of 5966318
- 411611 words of memory out of 5000000
- 19494 multiletter control sequences out of 15000+600000
+ 4857 strings out of 480609
+ 60178 string characters out of 5903656
+ 423441 words of memory out of 5000000
+ 20651 multiletter control sequences out of 15000+600000
  537741 words of font info for 42 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 26i,6n,31p,1099b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1141 hyphenation exceptions out of 8191
+ 26i,6n,31p,1143b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on objectivism.dvi (82 pages, 134672 bytes).
+Output written on objectivism.dvi (86 pages, 139204 bytes).
