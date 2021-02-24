@@ -1,9 +1,9 @@
-PWD /Users/bernardopaulsen/Google Drive/projects/objectivism
+PWD /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.tex
-OUTPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.log
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.tex
+OUTPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.log
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
@@ -16,9 +16,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.aux
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.aux
-OUTPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.aux
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.aux
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.aux
+OUTPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -30,53 +30,53 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.pdf
+OUTPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.pdf
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.toc
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.toc
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.toc
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.toc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-OUTPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.toc
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/dedication.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/dedication.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/preface.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/preface.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/introduction.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/introduction.tex
+OUTPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.toc
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/dedication.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/dedication.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/preface.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/preface.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/introduction.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/introduction.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/1.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/1.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/1.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/1.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/2.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/2.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/3.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/3.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/4.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/4.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/5.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/5.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/6.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/6.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/7.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/7.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/8.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/8.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/9.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/9.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/10.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/10.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/11.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/11.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/12.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/12.tex
-INPUT /Users/bernardopaulsen/Google Drive/projects/objectivism/objectivism.aux
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/2.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/2.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/3.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/3.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/4.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/4.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/5.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/5.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/6.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/6.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/7.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/7.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/8.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/8.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/9.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/9.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/10.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/10.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/11.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/11.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/12.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/12.tex
+INPUT /Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb

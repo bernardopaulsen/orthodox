@@ -1,15 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2020.6.28)  1 FEB 2021 02:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.28)  24 FEB 2021 15:12
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
-de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
-{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
-documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
- tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
-\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,,charset=utf-8,html5.
-a.b.c.\input "\detokenize{objectivism.tex}"
-(./objectivism.tex (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+**"/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.tex"
+(/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -26,434 +23,202 @@ File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.sty
-version 2020-02-18-14:17
-Package: tex4ht 
---------------------------------------
---- Note --- for _ at preamble, use the command line option `early_'
---------------------------------------
---------------------------------------
---- Note --- for ^ at preamble, use the command line option `early^'
---------------------------------------
-\tmp:toks=\toks15
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/usepackage.4ht
-version 2020-03-12-14:03
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks18
-\thm@bodyfont=\toks19
-\thm@headfont=\toks20
-\thm@notefont=\toks21
-\thm@headpunct=\toks22
+\thm@style=\toks17
+\thm@bodyfont=\toks18
+\thm@headfont=\toks19
+\thm@notefont=\toks20
+\thm@headpunct=\toks21
 \thm@preskip=\skip49
 \thm@postskip=\skip50
 \thm@headsep=\skip51
-\dth@everypar=\toks23
+\dth@everypar=\toks22
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
-Excluding comment 'comment')
+ Excluding comment 'comment')
 \c@axiom=\count176
 \c@corollary=\count177
 \c@definition=\count178
 \c@theorem=\count179
-(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
-version 2020-03-12-14:03
---------------------------------------
---- Note --- for additional information, use the command line option `info'
---------------------------------------
-::::::::::::::::::::::::::::::::::::::::::
- TeX4ht info is available in the log file 
-::::::::::::::::::::::::::::::::::::::::::
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/tex4ht.sty
-version 2020-02-18-14:17
---- needs --- tex4ht objectivism ---
-\tmp:cnt=\count180
-\openout15 = `objectivism.tmp'.
-
-(./objectivism.tmp)
-\tmp:dim=\skip52
-(./objectivism.xref)
-\:refout=\write4
-\openout4 = `objectivism.xref'.
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
---------------------------------------
---- Note --- to remove the <?xml version=...?> processing instruction use the c
-ommand line option `no-VERSION'
---------------------------------------
---------------------------------------
---- Note --- to remove the DOCTYPE declaration use the command line option `no-
-DOCTYPE'
---------------------------------------
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-)
---------------------------------------
---- Note --- for marking of the base font, use the command line option `fonts+'
-
---------------------------------------
---------------------------------------
---- Note --- for non active _, use the command line option `no_'
---------------------------------------
---------------------------------------
---- Note --- for _ of catcode 13, use the command line option `_13'
---------------------------------------
---------------------------------------
---- Note --- for non active ^, use the command line option `no^'
---------------------------------------
---------------------------------------
---- Note --- for ^ of catcode 13, use the command line option `^13'
---------------------------------------
-(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
---------------------------------------
---- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
-on
---------------------------------------
---------------------------------------
---- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
-haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
-hes of tex4ht.c) 
---------------------------------------
---------------------------------------
---- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
-haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
-hes of tex4ht.c) 
---------------------------------------
---------------------------------------
---- Note --- for content and toc in 2 frames, use the command line option `fram
-es'
---------------------------------------
---------------------------------------
---- Note --- for content, toc, and footnotes in 3 frames, use the command line 
-option `frames-fn'
---------------------------------------
---------------------------------------
---- Note --- for file extension name xht, use the command line option `xht'
---------------------------------------
-TeX4ht package options: xhtml,charset=utf-8,html5,html
---------------------------------------
---- Note --- To print a timestamp, use the command line option timestamp
---------------------------------------
---------------------------------------
---- Note --- to ignore CSS code, use the command line option `-css
---------------------------------------
---------------------------------------
---- Note --- for inline CSS code, use the command line option `css-in'
---------------------------------------
---------------------------------------
---- Note --- for pop ups on mouse over, use the command line option `mouseover'
-
---------------------------------------
---------------------------------------
---- Note --- for addressing images in a subdirectory, use the command line opti
-on `imgdir:.../'
---------------------------------------
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
---------------------------------------
---- Note --- To print a timestamp, use the command line option timestamp
---------------------------------------
-)
-\:tokwrite=\toks24
-\:tokpage=\toks25
---------------------------------------
---- Note --- for back links to toc, use the command line option `sections+'
---------------------------------------
---------------------------------------
---- Note --- for linear crosslinks of pages, use the command line option `next'
-
---------------------------------------
-\openout15 = `objectivism.4ct'.
-
-\:tocout=\write5
-\openout5 = `objectivism.4tc'.
-
-(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/latex.4ht
-version 2020-02-26-14:25
-LaTeX Info: Redefining \_ on input line 168.
---------------------------------------
---- Note --- for links into captions, instead of float heads, use the command l
-ine option `refcaption'
---------------------------------------
-(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
---------------------------------------
---- Note --- For mini tocs immediately aftter the header use the command line o
-ption `minitoc<'
---------------------------------------
---------------------------------------
---- Note --- for enumerated list elements with valued data, use the command lin
-e option `enumerate+'
---------------------------------------
---------------------------------------
---- Note --- for enumerated list elements li's with value attributes, use the c
-ommand line option `enumerate-'
---------------------------------------
---------------------------------------
---- Note --- for CSS2 code, use the command line option `css2'
---------------------------------------
---------------------------------------
---- Note --- for pictorial tabular, use the command line option `pic-tabular'
---------------------------------------
---------------------------------------
---- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
---------------------------------------
---------------------------------------
---- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
-
---------------------------------------
---------------------------------------
---- Note --- for inline footnotes use command line option `fn-in'
---------------------------------------
---------------------------------------
---- Note --- for tracing of latex font commands, use the command line option `f
-onts'
---------------------------------------
---------------------------------------
---- Note --- for width specifications of tabular p entries, use the `p-width' c
-ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
-style="width:\HColWidth"}}
---------------------------------------
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
---------------------------------------
---- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
-
---------------------------------------
---------------------------------------
---- Note --- for pictorial array, use the command line option `pic-array'
---------------------------------------
---------------------------------------
---- Note --- for pictorial $...$ environments, use the command line option `pic
--m' (not recommended!!)
---------------------------------------
---------------------------------------
---- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
-he command line option `pic-m+' (not safe!!)
---------------------------------------
---------------------------------------
---- Note --- for pictorial array, use the command line option `pic-array'
---------------------------------------
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/fontmath.4ht
-version 2018-11-06-15:55
-(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/book.4ht (/usr/local/
-texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
---------------------------------------
---- Note --- for automatic sectioning pagination, use the command line option `
-1', `2', `3', '4', '5', '6', or '7'
---------------------------------------
---------------------------------------
---- Note --- for files named derived from section titles, use the command line 
-option `sec-filename'
---------------------------------------
---------------------------------------
---- Note --- for i-columns index, use the command line option `index=i' (e.g., 
-index=2)
---------------------------------------
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/inputenc.4ht
-version 2009-05-21-09:32
-(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/amsthm.4ht
-version 2009-05-21-09:32
-(/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-)) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2020-03-16-10:43
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2019-12-28-14:40
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2020-03-06-15:07
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-11-21-13:36
-)) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count180
 \l__pdf_internal_box=\box45
-\g__pdf_backend_object_int=\count181
-\l__pdf_backend_content_box=\box46
-\l__pdf_backend_model_box=\box47
-\g__pdf_backend_annotation_int=\count182
-\g__pdf_backend_link_int=\count183
-\g__pdf_backend_link_sf_int=\count184
-) (./objectivism.aux
+) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.aux
 
 LaTeX Warning: Label `cor:consciousness' multiply defined.
 
 
 LaTeX Warning: Label `the:similarities' multiply defined.
 
+
+LaTeX Warning: Label `def:context' multiply defined.
+
 )
 \openout1 = `objectivism.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
---- file objectivism.css ---
-[1
-
-] [2
-
-] [1] [2
-
-] [3]
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <12> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
-[1] [2] (./objectivism.4ct [3
+(Font)              <6> on input line 28.
+ [1
 
-]) (./dedication.tex [4]) (./preface.tex [5
 
-] [6
 
-]) (./introduction.tex [7] [8
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-] [9] [10]) [11] [12
+] (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+ [3] [4])
+\tf@toc=\write4
+\openout4 = `objectivism.toc'.
 
-] (./1.tex [1] [2
+ (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/dedication.tex [5] [6
 
-] [3] [4] [5] [6
+]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/preface.tex [7] [8
 
-]
+]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/introduction.tex [9] [10
+
+]) [11] [12
+
+] (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/1.tex [1
+
+] [2]
 Chapter 1.
-[7] [8] [9] [10] [11] [12] [13]) (./2.tex [14] [15
 
-] [16] [17] [18
+Overfull \hbox (0.67468pt too wide) in paragraph at lines 5--5
+[]\OT1/cmr/bx/n/14.4 Existence, Iden-tity and Con-scious-ness as the
+ []
+
+[3
 
 ]
+Overfull \hbox (15.7228pt too wide) in paragraph at lines 53--54
+[]\OT1/cmr/m/n/10 Two corol-lar-ies are im-plicit in the Law of Iden-tity: the Law of Non-Contradiction
+ []
+
+[4] [5]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/2.tex [6]
 Chapter 2.
-[19] [20] [21] [22] [23] [24]) (./3.tex [25] [26
+[7
 
-]
+] [8] [9]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/3.tex [10] [11
+
+] [12]
 Chapter 3.
-[27] [28] [29] [30] [31] [32] [33] [34]) (./4.tex [35] [36
 
-]
+Overfull \hbox (0.41295pt too wide) in paragraph at lines 11--11
+[]\OT1/cmr/bx/n/14.4 Differentiation and In-te-gra-tion as the Means
+ []
+
+[13
+
+] [14] [15]
+Overfull \hbox (38.83118pt too wide) in paragraph at lines 140--140
+[]\OT1/cmr/bx/n/14.4 Definition as the Fi-nal Step in Concept-Formation 
+ []
+
+[16] [17]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/4.tex [18]
 Chapter 4.
-[37]) (./5.tex [38]
+[19
+
+]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/5.tex [20]
 Chapter 5.
-[39
+) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/6.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]) (./6.tex [40] [41
+ [21
 
-] [42] [43] [44
+] [22] [23
 
-]
+] [24]
 Chapter 6.
-[45]) (./7.tex [46]
-Chapter 7.
-[47
+[25
 
-] [48] [49] [50]) (./8.tex [51] [52
+]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/7.tex [26]
+Chapter 7.
+[27
 
 ]
+Overfull \hbox (7.24419pt too wide) in paragraph at lines 53--54
+[]\OT1/cmr/m/it/10 Principles con-cern-ing the dis-tinc-tion be-tween
+ []
+
+[28] [29]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/8.tex [30]
 Chapter 8.
-) (./9.tex [53] [54
+) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/9.tex [31
+
+] [32
 
 ]
 Chapter 9.
-) (./10.tex [55] [56
+) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/10.tex [33] [34
 
-] [57] [58] [59] [60
-
-]
+] [35] [36]
 Chapter 10.
-) (./11.tex [61] [62
+
+Overfull \hbox (5.74634pt too wide) in paragraph at lines 7--7
+[]\OT1/cmr/bx/n/14.4 Government as an Agency to Pro-tect Rights 
+ []
+
+) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/11.tex [37
+
+] [38
 
 ]
 Chapter 11.
-) (./12.tex [63] [64
+) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/12.tex [39] [40
 
-] [65] [66] [67] [68
-
-]
+] [41] [42]
 Chapter 12.
-) [69] (./objectivism.aux)
+
+Overfull \hbox (5.97964pt too wide) in paragraph at lines 7--7
+[]\OT1/cmr/bx/n/14.4 Romantic Lit-er-a-ture as Il-lus-trat-ing the Role
+ []
+
+) [43
+
+] (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4857 strings out of 480609
- 60178 string characters out of 5903656
- 423441 words of memory out of 5000000
- 20651 multiletter control sequences out of 15000+600000
- 537741 words of font info for 42 fonts, out of 8000000 for 9000
+ 725 strings out of 480608
+ 13140 string characters out of 5903630
+ 248084 words of memory out of 5000000
+ 16631 multiletter control sequences out of 15000+600000
+ 538839 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 26i,6n,31p,1143b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,6n,20p,697b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on "/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.pdf" (55 pages, 184933 bytes).
+PDF statistics:
+ 216 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on objectivism.dvi (86 pages, 139204 bytes).
