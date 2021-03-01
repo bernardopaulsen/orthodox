@@ -25,47 +25,46 @@
 \contentsline {section}{\numberline {4.2}Objectivity as Volitional Adherence to Reality by a Method of Logic}{19}%
 \contentsline {section}{\numberline {4.3}Knowledge as Contextual}{20}%
 \contentsline {section}{\numberline {4.4}Knowledge as Hierarchical}{20}%
-\contentsline {section}{\numberline {4.5}Intrinsicism and Subjectivism as the Two Forms of Rejecting Objectivity}{20}%
-\contentsline {chapter}{\numberline {5}Reason}{21}%
-\contentsline {section}{\numberline {5.1}Emotions as a Product of Ideas}{22}%
-\contentsline {section}{\numberline {5.2}Reason as Man's Only Means of Knowledge}{22}%
-\contentsline {section}{\numberline {5.3}The Arbitrary as Neither True or False}{22}%
-\contentsline {section}{\numberline {5.4}Certainty as Contextual}{22}%
-\contentsline {section}{\numberline {5.5}Mysticism and Skepticism as Denials of Reason}{22}%
-\contentsline {part}{III\hspace {1em}Ethics}{23}%
-\contentsline {chapter}{\numberline {6}Man}{25}%
-\contentsline {section}{\numberline {6.1}Man as Conditional and Goal-Directed}{25}%
-\contentsline {section}{\numberline {6.2}Reason as Man's Basic Means of Survival}{25}%
-\contentsline {section}{\numberline {6.3}Reason as an Attribute of the Individual}{26}%
-\contentsline {chapter}{\numberline {7}The Good}{27}%
-\contentsline {section}{\numberline {7.1}``Life'' as the Essential Root of ``Value''}{27}%
-\contentsline {section}{\numberline {7.2}Man's Life as the Standard of Moral Value}{28}%
-\contentsline {section}{\numberline {7.3}Rationality as the Primary Virtue}{29}%
-\contentsline {section}{\numberline {7.4}The Individual as the Propor Beneficiary of his Own Moral Action}{30}%
-\contentsline {section}{\numberline {7.5}Values as Objective}{30}%
-\contentsline {chapter}{\numberline {8}Virtue}{31}%
-\contentsline {section}{\numberline {8.1}Independence as a Primary Orientation to Reality, not to Other Men}{31}%
-\contentsline {section}{\numberline {8.2}Integrity as Loyalty to Rational Principles}{31}%
-\contentsline {section}{\numberline {8.3}Honesty as the Rejection of Unreality}{31}%
-\contentsline {section}{\numberline {8.4}Justice as Rationality in the Evaluation of Men}{31}%
-\contentsline {section}{\numberline {8.5}Productiveness as the Adjustment of Nature to Man}{31}%
-\contentsline {section}{\numberline {8.6}Pride as Moral Ambitiousness}{31}%
-\contentsline {section}{\numberline {8.7}The Initiation of Physical Force as Evil}{31}%
-\contentsline {chapter}{\numberline {9}Happiness}{33}%
-\contentsline {section}{\numberline {9.1}Virtue as Practical}{33}%
-\contentsline {section}{\numberline {9.2}Happiness as the Normal Condition of Man}{33}%
-\contentsline {section}{\numberline {9.3}Sex as Metaphysical}{33}%
-\contentsline {part}{IV\hspace {1em}Politics}{35}%
-\contentsline {chapter}{\numberline {10}Government}{37}%
-\contentsline {section}{\numberline {10.1}Individual Rights as Absolutes}{37}%
-\contentsline {section}{\numberline {10.2}Government as an Agency to Protect Rights}{37}%
-\contentsline {section}{\numberline {10.3}Statism as the Politics of Unreason}{37}%
-\contentsline {chapter}{\numberline {11}Capitalism}{39}%
-\contentsline {section}{\numberline {11.1}Capitalism as the Only Moral System}{39}%
-\contentsline {section}{\numberline {11.2}Capitalism as the System of Objectivity}{39}%
-\contentsline {section}{\numberline {11.3}Opposition to Capitalism as Dependent on Bad Epistemology}{39}%
-\contentsline {part}{V\hspace {1em}Aesthetics}{41}%
-\contentsline {chapter}{\numberline {12}Art}{43}%
-\contentsline {section}{\numberline {12.1}Art as a Concretization of Metaphysics}{43}%
-\contentsline {section}{\numberline {12.2}Romantic Literature as Illustrating the Role of Philosophy in Art}{43}%
-\contentsline {section}{\numberline {12.3}Esthetic Value as Objective}{43}%
+\contentsline {chapter}{\numberline {5}Reason}{23}%
+\contentsline {section}{\numberline {5.1}Emotions as a Product of Ideas}{24}%
+\contentsline {section}{\numberline {5.2}Reason as Man's Only Means of Knowledge}{24}%
+\contentsline {section}{\numberline {5.3}The Arbitrary as Neither True or False}{24}%
+\contentsline {section}{\numberline {5.4}Certainty as Contextual}{24}%
+\contentsline {section}{\numberline {5.5}Mysticism and Skepticism as Denials of Reason}{24}%
+\contentsline {part}{III\hspace {1em}Ethics}{25}%
+\contentsline {chapter}{\numberline {6}Man}{27}%
+\contentsline {section}{\numberline {6.1}Man as Conditional and Goal-Directed}{27}%
+\contentsline {section}{\numberline {6.2}Reason as Man's Basic Means of Survival}{27}%
+\contentsline {section}{\numberline {6.3}Reason as an Attribute of the Individual}{28}%
+\contentsline {chapter}{\numberline {7}The Good}{29}%
+\contentsline {section}{\numberline {7.1}``Life'' as the Essential Root of ``Value''}{29}%
+\contentsline {section}{\numberline {7.2}Man's Life as the Standard of Moral Value}{30}%
+\contentsline {section}{\numberline {7.3}Rationality as the Primary Virtue}{31}%
+\contentsline {section}{\numberline {7.4}The Individual as the Propor Beneficiary of his Own Moral Action}{32}%
+\contentsline {section}{\numberline {7.5}Values as Objective}{32}%
+\contentsline {chapter}{\numberline {8}Virtue}{33}%
+\contentsline {section}{\numberline {8.1}Independence as a Primary Orientation to Reality, not to Other Men}{33}%
+\contentsline {section}{\numberline {8.2}Integrity as Loyalty to Rational Principles}{33}%
+\contentsline {section}{\numberline {8.3}Honesty as the Rejection of Unreality}{33}%
+\contentsline {section}{\numberline {8.4}Justice as Rationality in the Evaluation of Men}{33}%
+\contentsline {section}{\numberline {8.5}Productiveness as the Adjustment of Nature to Man}{33}%
+\contentsline {section}{\numberline {8.6}Pride as Moral Ambitiousness}{33}%
+\contentsline {section}{\numberline {8.7}The Initiation of Physical Force as Evil}{33}%
+\contentsline {chapter}{\numberline {9}Happiness}{35}%
+\contentsline {section}{\numberline {9.1}Virtue as Practical}{35}%
+\contentsline {section}{\numberline {9.2}Happiness as the Normal Condition of Man}{35}%
+\contentsline {section}{\numberline {9.3}Sex as Metaphysical}{35}%
+\contentsline {part}{IV\hspace {1em}Politics}{37}%
+\contentsline {chapter}{\numberline {10}Government}{39}%
+\contentsline {section}{\numberline {10.1}Individual Rights as Absolutes}{39}%
+\contentsline {section}{\numberline {10.2}Government as an Agency to Protect Rights}{39}%
+\contentsline {section}{\numberline {10.3}Statism as the Politics of Unreason}{39}%
+\contentsline {chapter}{\numberline {11}Capitalism}{41}%
+\contentsline {section}{\numberline {11.1}Capitalism as the Only Moral System}{41}%
+\contentsline {section}{\numberline {11.2}Capitalism as the System of Objectivity}{41}%
+\contentsline {section}{\numberline {11.3}Opposition to Capitalism as Dependent on Bad Epistemology}{41}%
+\contentsline {part}{V\hspace {1em}Aesthetics}{43}%
+\contentsline {chapter}{\numberline {12}Art}{45}%
+\contentsline {section}{\numberline {12.1}Art as a Concretization of Metaphysics}{45}%
+\contentsline {section}{\numberline {12.2}Romantic Literature as Illustrating the Role of Philosophy in Art}{45}%
+\contentsline {section}{\numberline {12.3}Esthetic Value as Objective}{45}%
