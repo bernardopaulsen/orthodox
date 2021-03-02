@@ -26,11 +26,10 @@
 \contentsline {section}{\numberline {4.3}Knowledge as Contextual}{20}%
 \contentsline {section}{\numberline {4.4}Knowledge as Hierarchical}{20}%
 \contentsline {chapter}{\numberline {5}Reason}{23}%
-\contentsline {section}{\numberline {5.1}Emotions as a Product of Ideas}{24}%
-\contentsline {section}{\numberline {5.2}Reason as Man's Only Means of Knowledge}{24}%
-\contentsline {section}{\numberline {5.3}The Arbitrary as Neither True or False}{24}%
-\contentsline {section}{\numberline {5.4}Certainty as Contextual}{24}%
-\contentsline {section}{\numberline {5.5}Mysticism and Skepticism as Denials of Reason}{24}%
+\contentsline {section}{\numberline {5.1}Emotions as a Product of Ideas}{23}%
+\contentsline {section}{\numberline {5.2}Reason as Man's Only Means of Knowledge}{23}%
+\contentsline {section}{\numberline {5.3}The Arbitrary as Neither True or False}{23}%
+\contentsline {section}{\numberline {5.4}Certainty as Contextual}{23}%
 \contentsline {part}{III\hspace {1em}Ethics}{25}%
 \contentsline {chapter}{\numberline {6}Man}{27}%
 \contentsline {section}{\numberline {6.1}Man as Conditional and Goal-Directed}{27}%
