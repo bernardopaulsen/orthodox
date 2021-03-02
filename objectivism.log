@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.28)  1 MAR 2021 13:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.6.28)  1 MAR 2021 22:42
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.tex"
-(/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.tex
+**objectivism.tex
+(./objectivism.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -23,11 +23,13 @@ File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks17
 \thm@bodyfont=\toks18
@@ -38,18 +40,22 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@postskip=\skip50
 \thm@headsep=\skip51
 \dth@everypar=\toks22
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
- Excluding comment 'comment')
+
+Excluding comment 'comment')
 \c@axiom=\count176
 \c@corollary=\count177
 \c@definition=\count178
 \c@theorem=\count179
- (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count180
 \l__pdf_internal_box=\box45
-) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.aux
+)
+(./objectivism.aux
 
 LaTeX Warning: Label `cor:consciousness' multiply defined.
 
@@ -86,9 +92,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2
 
-] (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.toc
+] (./objectivism.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -97,15 +104,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `objectivism.toc'.
 
- (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/dedication.tex [5] [6
+ (./dedication.tex [5] [6
 
-]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/preface.tex [7] [8
+]) (./preface.tex
+[7] [8
 
-]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/introduction.tex [9] [10
+]) (./introduction.tex [9] [10
 
 ]) [11] [12
 
-] (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/1.tex [1
+] (./1.tex [1
 
 ] [2]
 Chapter 1.
@@ -118,14 +126,15 @@ Overfull \hbox (0.67468pt too wide) in paragraph at lines 5--5
 
 ]
 Overfull \hbox (15.7228pt too wide) in paragraph at lines 53--54
-[]\OT1/cmr/m/n/10 Two corol-lar-ies are im-plicit in the Law of Iden-tity: the Law of Non-Contradiction
+[]\OT1/cmr/m/n/10 Two corol-lar-ies are im-plicit in the Law of Iden-tity: the 
+Law of Non-Contradiction
  []
 
-[4] [5]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/2.tex [6]
+[4] [5]) (./2.tex [6]
 Chapter 2.
 [7
 
-] [8] [9]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/3.tex [10] [11
+] [8] [9]) (./3.tex [10] [11
 
 ] [12]
 Chapter 3.
@@ -141,24 +150,25 @@ Overfull \hbox (38.83118pt too wide) in paragraph at lines 140--140
 []\OT1/cmr/bx/n/14.4 Definition as the Fi-nal Step in Concept-Formation 
  []
 
-[16] [17]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/4.tex [18]
+[16] [17]) (./4.tex [18]
 Chapter 4.
 [19
 
-] [20]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/5.tex [21] [22
+] [20]) (./5.tex [21] [22
 
 ]
 Chapter 5.
-) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/6.tex
+) (./6.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23] [24] [25
+ [23]
+[24] [25
 
 ] [26]
 Chapter 6.
 [27
 
-]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/7.tex [28]
+]) (./7.tex [28]
 Chapter 7.
 [29
 
@@ -167,15 +177,15 @@ Overfull \hbox (7.24419pt too wide) in paragraph at lines 53--54
 []\OT1/cmr/m/it/10 Principles con-cern-ing the dis-tinc-tion be-tween
  []
 
-[30] [31]) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/8.tex [32]
+[30] [31]) (./8.tex [32]
 Chapter 8.
-) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/9.tex [33
+) (./9.tex [33
 
 ] [34
 
 ]
 Chapter 9.
-) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/10.tex [35] [36
+) (./10.tex [35] [36
 
 ] [37] [38]
 Chapter 10.
@@ -184,13 +194,13 @@ Overfull \hbox (5.74634pt too wide) in paragraph at lines 7--7
 []\OT1/cmr/bx/n/14.4 Government as an Agency to Pro-tect Rights 
  []
 
-) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/11.tex [39
+) (./11.tex [39
 
 ] [40
 
 ]
 Chapter 11.
-) (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/12.tex [41] [42
+) (./12.tex [41] [42
 
 ] [43] [44]
 Chapter 12.
@@ -201,21 +211,29 @@ Overfull \hbox (5.97964pt too wide) in paragraph at lines 7--7
 
 ) [45
 
-] (/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.aux)
+] (./objectivism.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 725 strings out of 480608
- 13140 string characters out of 5903630
+ 724 strings out of 480608
+ 10675 string characters out of 5903630
  248084 words of memory out of 5000000
  16631 multiletter control sequences out of 15000+600000
  538839 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,6n,20p,697b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "/Users/bernardopaulsen/Google Drive/ubuntu/projects/orthodox/objectivism.pdf" (57 pages, 187338 bytes).
+ 25i,6n,20p,634b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
+al/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on objectivism.pdf (57 pages, 187338 bytes).
 PDF statistics:
  222 PDF objects out of 1000 (max. 8388607)
  153 compressed objects within 2 object streams
