@@ -1,69 +1,69 @@
-\contentsline {chapter}{Dedication}{vii}%
-\contentsline {chapter}{Preface}{ix}%
-\contentsline {chapter}{Introduction}{xi}%
-\contentsline {part}{I\hspace {1em}Metaphysics}{1}%
-\contentsline {chapter}{\numberline {1}Reality}{3}%
-\contentsline {section}{\numberline {1.1}Existence, Identity and Consciousness as the Basic Axioms}{3}%
-\contentsline {section}{\numberline {1.2}Causality as a Corollary of Identity}{4}%
-\contentsline {section}{\numberline {1.3}Existence as Possessing Primacy over Consciousness}{5}%
-\contentsline {section}{\numberline {1.4}The Metaphysically Given as Absolute}{6}%
-\contentsline {chapter}{\numberline {2}Sense Perception and Volition}{7}%
-\contentsline {section}{\numberline {2.1}The Senses as Necessarily Valid}{7}%
-\contentsline {section}{\numberline {2.2}Sensory Qualities as Real}{8}%
-\contentsline {section}{\numberline {2.3}Consciousness as Possessing Identity}{8}%
-\contentsline {section}{\numberline {2.4}The Perceptual Level as the Given}{8}%
-\contentsline {section}{\numberline {2.5}The Primary Choice as the Choice to Focus or Not}{9}%
-\contentsline {section}{\numberline {2.6}Human Actions, Mental and Physical, as Both Caused and Free}{10}%
-\contentsline {section}{\numberline {2.7}Volition as Axiomatic}{10}%
-\contentsline {part}{II\hspace {1em}Epistemology}{11}%
-\contentsline {chapter}{\numberline {3}Concept-Fromation}{13}%
-\contentsline {section}{\numberline {3.1}Differentiation and Integration as the Means to a Unit-Perspective}{13}%
-\contentsline {section}{\numberline {3.2}Concept-Formation as a Mathematical Process}{15}%
-\contentsline {section}{\numberline {3.3}Definition as the Final Step in Concept-Formation}{16}%
-\contentsline {chapter}{\numberline {4}Objectivity}{19}%
-\contentsline {section}{\numberline {4.1}Concepts as Objective}{19}%
-\contentsline {section}{\numberline {4.2}Objectivity as Volitional Adherence to Reality by a Method of Logic}{19}%
-\contentsline {section}{\numberline {4.3}Knowledge as Contextual}{20}%
-\contentsline {section}{\numberline {4.4}Knowledge as Hierarchical}{20}%
-\contentsline {chapter}{\numberline {5}Reason}{23}%
-\contentsline {section}{\numberline {5.1}Emotions as a Product of Ideas}{23}%
-\contentsline {section}{\numberline {5.2}Reason as Man's Only Means of Knowledge}{24}%
-\contentsline {section}{\numberline {5.3}The Arbitrary as Neither True or False}{25}%
-\contentsline {section}{\numberline {5.4}Certainty as Contextual}{25}%
-\contentsline {part}{III\hspace {1em}Ethics}{27}%
-\contentsline {chapter}{\numberline {6}Man}{29}%
-\contentsline {section}{\numberline {6.1}Man as Conditional and Goal-Directed}{29}%
-\contentsline {section}{\numberline {6.2}Reason as Man's Basic Means of Survival}{29}%
-\contentsline {section}{\numberline {6.3}Reason as an Attribute of the Individual}{30}%
-\contentsline {chapter}{\numberline {7}The Good}{31}%
-\contentsline {section}{\numberline {7.1}``Life'' as the Essential Root of ``Value''}{31}%
-\contentsline {section}{\numberline {7.2}Man's Life as the Standard of Moral Value}{32}%
-\contentsline {section}{\numberline {7.3}Rationality as the Primary Virtue}{33}%
-\contentsline {section}{\numberline {7.4}The Individual as the Propor Beneficiary of his Own Moral Action}{34}%
-\contentsline {section}{\numberline {7.5}Values as Objective}{34}%
-\contentsline {chapter}{\numberline {8}Virtue}{35}%
-\contentsline {section}{\numberline {8.1}Independence as a Primary Orientation to Reality, not to Other Men}{35}%
-\contentsline {section}{\numberline {8.2}Integrity as Loyalty to Rational Principles}{35}%
-\contentsline {section}{\numberline {8.3}Honesty as the Rejection of Unreality}{35}%
-\contentsline {section}{\numberline {8.4}Justice as Rationality in the Evaluation of Men}{35}%
-\contentsline {section}{\numberline {8.5}Productiveness as the Adjustment of Nature to Man}{35}%
-\contentsline {section}{\numberline {8.6}Pride as Moral Ambitiousness}{35}%
-\contentsline {section}{\numberline {8.7}The Initiation of Physical Force as Evil}{35}%
-\contentsline {chapter}{\numberline {9}Happiness}{37}%
-\contentsline {section}{\numberline {9.1}Virtue as Practical}{37}%
-\contentsline {section}{\numberline {9.2}Happiness as the Normal Condition of Man}{37}%
-\contentsline {section}{\numberline {9.3}Sex as Metaphysical}{37}%
-\contentsline {part}{IV\hspace {1em}Politics}{39}%
-\contentsline {chapter}{\numberline {10}Government}{41}%
-\contentsline {section}{\numberline {10.1}Individual Rights as Absolutes}{41}%
-\contentsline {section}{\numberline {10.2}Government as an Agency to Protect Rights}{41}%
-\contentsline {section}{\numberline {10.3}Statism as the Politics of Unreason}{41}%
-\contentsline {chapter}{\numberline {11}Capitalism}{43}%
-\contentsline {section}{\numberline {11.1}Capitalism as the Only Moral System}{43}%
-\contentsline {section}{\numberline {11.2}Capitalism as the System of Objectivity}{43}%
-\contentsline {section}{\numberline {11.3}Opposition to Capitalism as Dependent on Bad Epistemology}{43}%
-\contentsline {part}{V\hspace {1em}Aesthetics}{45}%
-\contentsline {chapter}{\numberline {12}Art}{47}%
-\contentsline {section}{\numberline {12.1}Art as a Concretization of Metaphysics}{47}%
-\contentsline {section}{\numberline {12.2}Romantic Literature as Illustrating the Role of Philosophy in Art}{47}%
-\contentsline {section}{\numberline {12.3}Esthetic Value as Objective}{47}%
+\contentsline {chapter}{Dedication}{vii}
+\contentsline {chapter}{Preface}{ix}
+\contentsline {chapter}{Introduction}{xi}
+\contentsline {part}{I\hspace {1em}Metaphysics}{1}
+\contentsline {chapter}{\numberline {1}Reality}{3}
+\contentsline {section}{\numberline {1.1}Existence, Identity and Consciousness as the Basic Axioms}{3}
+\contentsline {section}{\numberline {1.2}Causality as a Corollary of Identity}{4}
+\contentsline {section}{\numberline {1.3}Existence as Possessing Primacy over Consciousness}{5}
+\contentsline {section}{\numberline {1.4}The Metaphysically Given as Absolute}{6}
+\contentsline {chapter}{\numberline {2}Sense Perception and Volition}{7}
+\contentsline {section}{\numberline {2.1}The Senses as Necessarily Valid}{7}
+\contentsline {section}{\numberline {2.2}Sensory Qualities as Real}{8}
+\contentsline {section}{\numberline {2.3}Consciousness as Possessing Identity}{8}
+\contentsline {section}{\numberline {2.4}The Perceptual Level as the Given}{8}
+\contentsline {section}{\numberline {2.5}The Primary Choice as the Choice to Focus or Not}{9}
+\contentsline {section}{\numberline {2.6}Human Actions, Mental and Physical, as Both Caused and Free}{10}
+\contentsline {section}{\numberline {2.7}Volition as Axiomatic}{10}
+\contentsline {part}{II\hspace {1em}Epistemology}{11}
+\contentsline {chapter}{\numberline {3}Concept-Fromation}{13}
+\contentsline {section}{\numberline {3.1}Differentiation and Integration as the Means to a Unit-Perspective}{13}
+\contentsline {section}{\numberline {3.2}Concept-Formation as a Mathematical Process}{15}
+\contentsline {section}{\numberline {3.3}Definition as the Final Step in Concept-Formation}{16}
+\contentsline {chapter}{\numberline {4}Objectivity}{19}
+\contentsline {section}{\numberline {4.1}Concepts as Objective}{19}
+\contentsline {section}{\numberline {4.2}Objectivity as Volitional Adherence to Reality by a Method of Logic}{19}
+\contentsline {section}{\numberline {4.3}Knowledge as Contextual}{20}
+\contentsline {section}{\numberline {4.4}Knowledge as Hierarchical}{20}
+\contentsline {chapter}{\numberline {5}Reason}{23}
+\contentsline {section}{\numberline {5.1}Emotions as a Product of Ideas}{23}
+\contentsline {section}{\numberline {5.2}Reason as Man's Only Means of Knowledge}{24}
+\contentsline {section}{\numberline {5.3}The Arbitrary as Neither True or False}{25}
+\contentsline {section}{\numberline {5.4}Certainty as Contextual}{26}
+\contentsline {part}{III\hspace {1em}Ethics}{27}
+\contentsline {chapter}{\numberline {6}Man}{29}
+\contentsline {section}{\numberline {6.1}Man as Conditional and Goal-Directed}{29}
+\contentsline {section}{\numberline {6.2}Reason as Man's Basic Means of Survival}{29}
+\contentsline {section}{\numberline {6.3}Reason as an Attribute of the Individual}{30}
+\contentsline {chapter}{\numberline {7}The Good}{31}
+\contentsline {section}{\numberline {7.1}``Life'' as the Essential Root of ``Value''}{31}
+\contentsline {section}{\numberline {7.2}Man's Life as the Standard of Moral Value}{32}
+\contentsline {section}{\numberline {7.3}Rationality as the Primary Virtue}{33}
+\contentsline {section}{\numberline {7.4}The Individual as the Propor Beneficiary of his Own Moral Action}{34}
+\contentsline {section}{\numberline {7.5}Values as Objective}{34}
+\contentsline {chapter}{\numberline {8}Virtue}{35}
+\contentsline {section}{\numberline {8.1}Independence as a Primary Orientation to Reality, not to Other Men}{35}
+\contentsline {section}{\numberline {8.2}Integrity as Loyalty to Rational Principles}{35}
+\contentsline {section}{\numberline {8.3}Honesty as the Rejection of Unreality}{35}
+\contentsline {section}{\numberline {8.4}Justice as Rationality in the Evaluation of Men}{35}
+\contentsline {section}{\numberline {8.5}Productiveness as the Adjustment of Nature to Man}{35}
+\contentsline {section}{\numberline {8.6}Pride as Moral Ambitiousness}{35}
+\contentsline {section}{\numberline {8.7}The Initiation of Physical Force as Evil}{35}
+\contentsline {chapter}{\numberline {9}Happiness}{37}
+\contentsline {section}{\numberline {9.1}Virtue as Practical}{37}
+\contentsline {section}{\numberline {9.2}Happiness as the Normal Condition of Man}{37}
+\contentsline {section}{\numberline {9.3}Sex as Metaphysical}{37}
+\contentsline {part}{IV\hspace {1em}Politics}{39}
+\contentsline {chapter}{\numberline {10}Government}{41}
+\contentsline {section}{\numberline {10.1}Individual Rights as Absolutes}{41}
+\contentsline {section}{\numberline {10.2}Government as an Agency to Protect Rights}{41}
+\contentsline {section}{\numberline {10.3}Statism as the Politics of Unreason}{41}
+\contentsline {chapter}{\numberline {11}Capitalism}{43}
+\contentsline {section}{\numberline {11.1}Capitalism as the Only Moral System}{43}
+\contentsline {section}{\numberline {11.2}Capitalism as the System of Objectivity}{43}
+\contentsline {section}{\numberline {11.3}Opposition to Capitalism as Dependent on Bad Epistemology}{43}
+\contentsline {part}{V\hspace {1em}Aesthetics}{45}
+\contentsline {chapter}{\numberline {12}Art}{47}
+\contentsline {section}{\numberline {12.1}Art as a Concretization of Metaphysics}{47}
+\contentsline {section}{\numberline {12.2}Romantic Literature as Illustrating the Role of Philosophy in Art}{47}
+\contentsline {section}{\numberline {12.3}Esthetic Value as Objective}{47}
