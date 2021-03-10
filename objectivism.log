@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2020.6.28)  9 MAR 2021 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2020.6.28)  9 MAR 2021 23:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -413,52 +413,58 @@ Chapter 4.
 
 ]
 Chapter 5.
-[37] [38] [39]) (./6.tex [40] [41
 
-] [42] [43] [44
+LaTeX Warning: Reference `def:emotion' on page 37 undefined on input line 25.
+
+[37] [38] [39] [40]) (./6.tex [41] [42
+
+] [43] [44] [45] [46
 
 ]
 Chapter 6.
-[45]) (./7.tex [46]
+[47]) (./7.tex [48]
 Chapter 7.
-[47
+[49
 
-] [48] [49] [50]) (./8.tex [51] [52
+] [50] [51] [52]) (./8.tex [53] [54
 
 ]
 Chapter 8.
-) (./9.tex [53] [54
+) (./9.tex [55] [56
 
 ]
 Chapter 9.
-) (./10.tex [55] [56
+) (./10.tex [57] [58
 
-] [57] [58] [59] [60
+] [59] [60] [61] [62
 
 ]
 Chapter 10.
-) (./11.tex [61] [62
+) (./11.tex [63] [64
 
 ]
 Chapter 11.
-) (./12.tex [63] [64
+) (./12.tex [65] [66
 
-] [65] [66] [67] [68
+] [67] [68] [69] [70
 
 ]
 Chapter 12.
-) [69] (./objectivism.aux)
+) [71] (./objectivism.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4570 strings out of 480609
- 55207 string characters out of 5903656
- 420383 words of memory out of 5000000
- 20407 multiletter control sequences out of 15000+600000
+ 4578 strings out of 480609
+ 55325 string characters out of 5903656
+ 419404 words of memory out of 5000000
+ 20415 multiletter control sequences out of 15000+600000
  537741 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  26i,6n,31p,1104b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on objectivism.dvi (86 pages, 151248 bytes).
+Output written on objectivism.dvi (88 pages, 151728 bytes).
